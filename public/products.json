@@ -1,0 +1,208 @@
+[
+  {
+    "id": 1,
+    "title": "Apple MacBook Pro 16",
+    "img": "https://i.ibb.co.com/JptrSW1/mac16jpg.jpg",
+    "cat": "Laptops",
+    "price": 2499.99,
+    "desc": "Apple MacBook Pro with M1 Pro chip, delivering powerful performance for creative professionals.",
+    "specs": [
+      "Processor: Apple M1 Pro",
+      "RAM: 16GB",
+      "Storage: 512GB SSD",
+      "Display: 16-inch Retina XDR",
+      "Battery Life: Up to 21 hours"
+    ],
+    "available": true,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "title": "Samsung Galaxy S21 Ultra",
+    "img": "https://i.ibb.co.com/dD0xDfp/s21ultra.jpg",
+    "cat": "Phones",
+    "price": 1199.99,
+    "desc": "Samsung's flagship smartphone with a stunning 108MP camera and 100x Space Zoom.",
+    "specs": [
+      "Screen: 6.8\" Dynamic AMOLED 2X",
+      "Processor: Exynos 2100 / Snapdragon 888",
+      "Storage: 256GB",
+      "Battery: 5000mAh",
+      "Camera: Quad 108MP rear"
+    ],
+    "available": true,
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "title": "Google Pixel 6",
+    "img": "https://i.ibb.co.com/HhLmZyZ/Gear-Google-Pixel-6-top.webp",
+    "cat": "Phones",
+    "price": 699.99,
+    "desc": "Google's latest smartphone with Tensor chip, delivering superior AI capabilities and camera performance.",
+    "specs": [
+      "Screen: 6.4\" AMOLED",
+      "Processor: Google Tensor",
+      "Storage: 128GB",
+      "Battery: 4600mAh",
+      "Camera: Dual 50MP rear"
+    ],
+    "available": true,
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "title": "Sony WH-1000XM4",
+    "img": "https://i.ibb.co.com/prS5QNZ/sony-wh-1000xm4-test-jpg.webp",
+    "cat": "Audio",
+    "price": 349.99,
+    "desc": "Industry-leading noise-canceling headphones with up to 30 hours of battery life.",
+    "specs": [
+      "Type: Over-ear",
+      "Noise Cancellation: Yes",
+      "Battery Life: Up to 30 hours",
+      "Connectivity: Bluetooth 5.0"
+    ],
+    "available": true,
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "title": "Dell XPS 13",
+    "img": "https://i.ibb.co.com/qW02WYy/xps-13-plus-custom-mac-bd.webpg",
+    "cat": "Laptops",
+    "price": 999.99,
+    "desc": "Compact and high-performance laptop with InfinityEdge display and long battery life.",
+    "specs": [
+      "Processor: Intel Core i7",
+      "RAM: 16GB",
+      "Storage: 512GB SSD",
+      "Display: 13.4-inch FHD+",
+      "Battery Life: Up to 12 hours"
+    ],
+    "available": true,
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "title": "iPhone 13 Pro Max",
+    "img": "https://i.ibb.co.com/bgK0NQ9/13-pro-max.jpg",
+    "cat": "Phones",
+    "price": 1099.99,
+    "desc": "Apple's top-tier smartphone with ProMotion display and cinematic mode for video.",
+    "specs": [
+      "Screen: 6.7\" Super Retina XDR",
+      "Processor: A15 Bionic",
+      "Storage: 128GB",
+      "Battery: 4352mAh",
+      "Camera: Triple 12MP rear"
+    ],
+    "available": true,
+    "rating": 4.9
+  },
+  {
+    "id": 7,
+    "title": "Google Pixel 7",
+    "img": "https://i.ibb.co.com/Nj5j6Fn/google-pixel-7-review-1.jpg",
+    "cat": "Phones",
+    "price": 799.99,
+    "desc": "Latest Google Pixel with advanced AI-driven camera and Google Tensor chip.",
+    "specs": [
+      "Screen: 6.3\" AMOLED",
+      "Processor: Google Tensor G2",
+      "Storage: 128GB",
+      "Battery: 4700mAh",
+      "Camera: Dual 50MP rear"
+    ],
+    "available": true,
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "title": "Samsung Galaxy Watch 4",
+    "img": "https://i.ibb.co.com/xfKqmNM/Galaxy-Watch-4-dames-770x411.webp",
+    "cat": "Wearables",
+    "price": 249.99,
+    "desc": "Advanced health-tracking smartwatch with body composition analysis and ECG.",
+    "specs": [
+      "Display: 1.4\" Super AMOLED",
+      "Battery Life: Up to 40 hours",
+      "Water Resistance: 5ATM",
+      "Heart Rate Monitor: Yes",
+      "GPS: Yes"
+    ],
+    "available": true,
+    "rating": 4.5
+  },
+  {
+    "id": 9,
+    "title": "Bose SoundLink Revolve+",
+    "img": "https://i.ibb.co.com/T8H2PY9/bose-soundlink.jpg",
+    "cat": "Audio",
+    "price": 299.99,
+    "desc": "Portable Bluetooth speaker with 360-degree sound and up to 16 hours of playtime.",
+    "specs": [
+      "Battery Life: 16 hours",
+      "Bluetooth Version: 4.2",
+      "Water Resistance: IPX4",
+      "Power Output: 15W"
+    ],
+    "available": true,
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "title": "OnePlus 9 Pro",
+    "img": "https://i.ibb.co.com/Y0vwb1D/oneplus9-projpg.jpg",
+    "cat": "Phones",
+    "price": 969.99,
+    "desc": "OnePlus flagship phone with 120Hz Fluid Display and Hasselblad-tuned camera.",
+    "specs": [
+      "Screen: 6.7\" Fluid AMOLED",
+      "Processor: Snapdragon 888",
+      "Storage: 256GB",
+      "Battery: 4500mAh",
+      "Camera: Quad 48MP rear"
+    ],
+    "available": true,
+    "rating": 4.7
+  },
+  {
+    "id": 11,
+    "title": "Xiaomi Mi 11 Ultra",
+    "img": "https://i.ibb.co.com/fYdZ2cj/Xiaomi-Mi-11-Ultra.jpg",
+    "cat": "Phones",
+    "price": 849.99,
+    "desc": "High-end Xiaomi smartphone with triple rear cameras and 120x digital zoom.",
+    "specs": [
+      "Screen: 6.81\" AMOLED",
+      "Processor: Snapdragon 888",
+      "Storage: 256GB",
+      "Battery: 5000mAh",
+      "Camera: Triple 50MP rear"
+    ],
+    "available": true,
+    "rating": 4.6
+  },
+  {
+    "id": 12,
+    "title": "Apple iPad Pro 11",
+    "img": "https://i.ibb.co.com/55nGbBb/ipad-pro-m1-2021-cnet-2021-037.webp",
+    "cat": "Tablets",
+    "price": 799.99,
+    "desc": "Apple's high-performance tablet with M1 chip and Liquid Retina display.",
+    "specs": [
+      "Screen: 11\" Liquid Retina",
+      "Processor: Apple M1",
+      "Storage: 128GB",
+      "Battery Life: Up to 10 hours"
+    ],
+    "available": true,
+    "rating": 4.8
+  }
+
+  
+]
+
+
+

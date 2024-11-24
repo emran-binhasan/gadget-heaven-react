@@ -1,0 +1,43 @@
+ [
+      {
+        "coupon_code": "SAVE10",
+        "minimum_spent": 50,
+        "discount": 10
+      },
+      {
+        "coupon_code": "WELCOME20",
+        "minimum_spent": 100,
+        "discount": 20
+      },
+      {
+        "coupon_code": "FREESHIP",
+        "minimum_spent": 30,
+        "discount": 0
+      },
+      {
+        "coupon_code": "HOLIDAY30",
+        "minimum_spent": 150,
+        "discount": 30
+      },
+      {
+        "coupon_code": "BIGSALE25",
+        "minimum_spent": 200,
+        "discount": 25
+      },
+      {
+        "coupon_code": "EXTRA15",
+        "minimum_spent": 75,
+        "discount": 15
+      },
+      {
+        "coupon_code": "FLASH5",
+        "minimum_spent": 25,
+        "discount": 5
+      },
+      {
+        "coupon_code": "WINTER10",
+        "minimum_spent": 60,
+        "discount": 10
+      }
+]
+  
